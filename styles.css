@@ -1,0 +1,424 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+
+.navbar {
+    text-align: right;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 90px;
+    /* text-decoration: none; */
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar ul li {
+    display: inline-block;
+    margin: 25px 14px;
+    padding-top: 7px;
+}
+
+.navbar ul  {
+    padding-right: 450px;
+}
+
+.logomain {
+    float: left;
+    padding-left: 110px;
+    padding-top: 10px;
+}
+
+.logomain1 {
+    float: left;
+    padding-left: 110px;
+    padding-top: 10px;
+    margin-top: 46px;
+    margin-left: 97px;
+}
+
+.img2 {
+    width: 100%;
+}
+
+p {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.big {
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.get-button {
+    padding: 20px 35px 20px 35px;
+    background: transparent;
+    border: 1px solid #ffff;
+    border-radius: 40px;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+}
+.order_online{
+    padding: 20px 35px 20px 35px;
+    background: red;
+    border-radius: 45px;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+    margin-right: -200px;
+    margin-left: 14px;
+    
+}
+
+.font {
+    font-family: 'Handjet', cursive;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+
+.font1 {
+    font-family: 'Handjet', cursive;
+    font-size: 40px;
+    text-align: right;
+    color: white;
+    margin-top: -282px;
+    margin-right: 325px;
+
+}
+
+
+.min1 {
+    background-color: white;
+    margin-left: 350px;
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.min2 {
+    background-color: white;
+    margin-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.b1 {
+    color: white;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    margin-left: 428px;
+    margin-top: 12px;
+    background-color: transparent;
+    border-radius: 51px;
+    padding: 19px 19px 19px 19px;
+    text-decoration: none;
+
+}
+
+
+
+.b2 {
+    color: white;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    margin-left: 166px;
+    margin-top: 12px;
+    background-color: transparent;
+    border-radius: 51px;
+    padding: 19px 19px 19px 19px;
+    text-decoration: none;
+
+
+}
+
+.b3 {
+    color: white;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    margin-left: 176px;
+    margin-top: 12px;
+    background: transparent;
+    border-radius: 51px;
+    padding: 19px 19px 19px 19px;
+    text-decoration: none;
+
+
+}
+
+.designs {
+    position: absolute;
+    right: 32px;
+    top: 1368px;
+
+}
+
+.box {
+    background-color: #1E1E1E;
+    height: 180vh;
+    width: 100%;
+    margin-top: 85px;
+}
+
+.box1 {
+    background-color: #1E1E1E;
+    height: 93vh;
+    width: 100%;
+    margin-top: 85px;
+}
+
+footer {
+    background-color: #1E1E1E;
+    height: 62vh;
+    margin-top: 85px;
+
+
+}
+
+.party {
+    float: right;
+    margin-top: 285px;
+    margin-right: 217px;
+}
+
+.building {
+    margin-left: 170px;
+    margin-top: 632px;
+}
+
+.amb {
+    float: right;
+    margin-top: 237px;
+    margin-right: 213px;
+}
+
+.paint {
+    margin-top: -40px;
+    float: right;
+
+}
+
+.car {
+    width: 350px;
+    height: 250px;
+    margin-left: 230px;
+    margin-top: 60px;
+}
+
+.enter {
+    width: 350px;
+    height: 250px;
+    margin-left: 593px;
+    margin-top: -286px;
+    margin-bottom: 200px;
+}
+
+.ballon {
+    width: 350px;
+    height: 250px;
+    display: inline-block;
+    margin-left: 960px;
+    margin-top: -2940px;
+    margin-bottom: 54px;
+
+
+}
+
+.red {
+    color: red;
+    margin-top: 13px;
+    margin-left: 319px;
+    letter-spacing: 3px;
+}
+
+.red1 {
+    color: red;
+    margin-top: 13px;
+    margin-left: 509px;
+    letter-spacing: 3px;
+}
+
+.red4 {
+    color: red;
+    margin-top: -19px;
+    margin-left: 900px;
+    letter-spacing: 3px;
+    margin-bottom: 200px;
+}
+
+.red2 {
+    color: red;
+    margin-top: -184px;
+    margin-left: 694px;
+    letter-spacing: 3px;
+
+}
+
+.red3 {
+    color: red;
+    margin-top: -40px;
+    margin-left: 1060px;
+    letter-spacing: 3px;
+
+}
+
+.chair {
+    margin-top: 200px;
+    margin-left: 407px;
+}
+
+.enter2 {
+    float: right;
+    margin-top: -286px;
+    margin-left: 200px;
+    margin-right: 387px;
+}
+
+.vill {
+    margin-top: 200px;
+}
+
+.card {
+    background: white;
+    height: 230px;
+    width: 350px;
+    border-radius: 4px;
+    padding: 25px 24px;
+    margin-right: 200px;
+    margin-left: 210px;
+    margin-top: 30px;
+    margin-bottom: 32px;
+    box-sizing: border-box;
+    display: inline-block;
+
+}
+
+.card1 {
+    background: white;
+    height: 230px;
+    width: 350px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-bottom: 31px;
+    margin-left: -175px;
+
+
+}
+
+.card2 {
+    background: white;
+    height: 230px;
+    width: 350px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-left: 28px;
+    margin-bottom: 30px;
+}
+
+.card3 {
+    background: white;
+    height: 230px;
+    width: 350px;
+    border-radius: 4px;
+    margin-left: 395px;
+    display: inline-block;
+}
+
+.card4 {
+    background: white;
+    height: 230px;
+    width: 350px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-left: 19px;
+    margin-top: 0px;
+    position: absolute;
+
+}
+
+.map1 {
+    background: transparent;
+    margin-left: 126px;
+}
+
+.map {
+    background: transparent;
+    margin-left: 142px;
+    margin-top: 20px;
+}
+
+.map2 {
+    background: transparent;
+    margin-left: 142px;
+    margin-top: 20px;
+}
+
+.red5 {
+    text-align: center;
+    color: red;
+    letter-spacing: 3px;
+    background: transparent;
+
+}
+
+.fon {
+    text-align: center;
+    margin-top: 6px;
+    font-family: cursive;
+    font-size: 20px;
+    line-height: 37px;
+}
+
+.handi {
+    width: 280px;
+    height: 280px;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.ds {
+    margin-top: 47px;
+    position: absolute;
+    margin-left: 40px;
+}
+
+.paint {
+    margin-left: 1054px;
+    margin-top: 180px;
+    position: absolute;
+}
+
+.paint1 {
+    position: absolute;
+    margin-top: -180px;
+
+}
+
+.footer_text {
+    color: white;
+    padding-top: 435px;
+    margin-left: 180px;
+
+}
+
+.footer_text2 {
+    color: white;
+    float: right;
+    margin-right: 223px;
+    margin-top: -14px;
+}
